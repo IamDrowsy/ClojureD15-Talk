@@ -1,0 +1,6 @@
+#!/bin/bash
+
+source ../config
+
+
+java -jar target/uberjar/hwo2014bot-0.1.0-SNAPSHOT-standalone.jar $1 $2 "$BOTNAME" "$BOTKEY"

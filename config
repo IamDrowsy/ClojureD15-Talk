@@ -1,0 +1,3 @@
+export PL="clojure"
+export BOTKEY="you will need your own botkey, sorry."
+export BOTNAME="Your Name"
